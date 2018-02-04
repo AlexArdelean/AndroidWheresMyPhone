@@ -12,5 +12,5 @@ Future Features:
 
 To prevent location leaks to attackers security is a priority. To create a secure connection we encrypt 
 communication using AES 128 bit encryption. We use diffie-hellman key-exchange algorithm to allow the 
-server and phone to decrypt messages. We use a predetermined word to prevent impersonators. We use bcrypt 
-to hash passwords before communication and we store passwords hashed on the server.
+server and phone to decrypt messages from each other. We use a predetermined word to prevent impersonators. 
+We use bcrypt to hash passwords before communication and we store passwords hashed on the server.
