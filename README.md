@@ -11,6 +11,6 @@ Future Features:
   * More customization.
 
 Security is a priority. To create a secure connection we encrypt communication using AES 128 bit encryption. 
-We use diffie hellman key-exchange algorithm to allow the server and phone to decrypt messages. We use a 
+We use diffie-hellman key-exchange algorithm to allow the server and phone to decrypt messages. We use a 
 predetermined word to prevent ddos. We use jbcrypt to hash passwords before communication and we store 
 passwords hashed on the server.
