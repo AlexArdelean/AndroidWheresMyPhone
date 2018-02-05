@@ -1,5 +1,5 @@
 # AndroidWheresMyPhone
-Android code for an app that connects to a website built using ruby on rails with a mysql database.
+Java code for an android app that connects to a website built using ruby on rails with a mysql database.
 
 Features:
   * Log in to account created on website.
